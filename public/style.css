@@ -112,6 +112,8 @@ footer {
     color: #555555;
 }
 
+
+
 /* Responsive Design / Design Responsivo */
 /* Body Styling (Dark Theme with Image) / Estilo do Body (Tema Escuro com Imagem) */
 body {
@@ -125,7 +127,7 @@ body {
     
     /* Set background image with a dark overlay / Define a imagem de fundo com uma camada escura */
     /* Replace 'fundo.jpg' with your image name / Substitua 'fundo.jpg' pelo nome da sua imagem */
-    background-image: linear-gradient(rgba(18, 18, 18, 0.85), rgba(18, 18, 18, 0.85)), url('scooter.jpg');
+    background-image: linear-gradient(rgba(18, 18, 18, 0.85), rgba(18, 18, 18, 0.85)), url('logo.png');
     
     /* Make the image cover the entire screen / Faz a imagem cobrir a tela inteira */
     background-size: cover;
